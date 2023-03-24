@@ -1,0 +1,16 @@
+body {
+    background: rgb(108, 130, 244);
+    background: radial-gradient(circle, rgba(108, 130, 244, 1) 0%, rgba(168, 168, 168, 1) 100%);
+}
+
+
+.fortune-display {
+
+    border: 5px white dashed;
+    margin: 20px;
+    padding: 20px;
+}
+
+iframe {
+    width: 560px;
+}
